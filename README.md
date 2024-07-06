@@ -12,4 +12,3 @@ BookArchiveApp is a .NET Core Web API application that utilizes repository, unit
 - CQRS (Command Query Responsibility Segregation)
 - MediatR
 - MSSQL
-- xUnit
